@@ -76,22 +76,22 @@ navid.tavakoli.sh@gmail.com
 
 ## 🔭 Selected Projects
 
-### Computer Vision Deep Learning DeepLabV3 ResNet Backbone for Image Segmentation 🔗 [GitHub Repo](https://github.com/navidtnt/Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation)
+### Computer Vision Deep Learning DeepLabV3 ResNet Backbone for Image Segmentation 🔗 [GitHub Repo](https://github.com/NavidTavakoli/Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation)
 - Applied deep learning models like DeepLabV3 with ResNet50 backbone to extract building footprints from satellite imagery for urban planning.  
 
-### Geospatial Data Preparation for Deep Learning 🔗 [GitHub Repo](https://github.com/navidtnt/Geospatial-Data-Preparation-for-Deep-Learning)
+### Geospatial Data Preparation for Deep Learning 🔗 [GitHub Repo](https://github.com/NavidTavakoli/Geospatial-Data-Preparation-for-Deep-Learning)
 - A collection of Python scripts for preprocessing and postprocessing geospatial imagery, designed to prepare satellite and aerial data for deep learning models. Includes tools for raster clipping, merging, tiling, CRS adjustment, format conversion, and vectorization of model outputs — bridging Remote Sensing and Computer Vision workflows.
 
 
-### Geostatistical Modeling and-Environmental Data Analysis  🔗 [GitHub Repo](https://github.com/navidtnt/Geostatistical-Modeling-and-Environmental-Data-Analysis)
+### Geostatistical Modeling and-Environmental Data Analysis  🔗 [GitHub Repo](https://github.com/NavidTavakoli/Geostatistical-Modeling-and-Environmental-Data-Analysis)
 - Conducted thorough O3 density study in 5 European countries using EEA data. Analyzed with R Studio: distance calculations, variogram modeling (linear, spherical, Gaussian, exponential), model comparison via cross-validation. Optimal model chosen. Produced kriging maps in SGems. 
 
 
-### Movie Library Desktop Application  🔗 [GitHub Repo](https://github.com/navidtnt/Movie-Library-Desktop-Application)
+### Movie Library Desktop Application  🔗 [GitHub Repo](https://github.com/NavidTavakoli/Movie-Library-Desktop-Application)
 - Movie Library is a simple desktop app to organize and track your movies. Easily add, edit, and categorize films you’ve watched or want to watch. Built with Python and includes an easy Windows installer for quick setup.
 
 
-### COVID-19 Data Web Scraping and Analysis  🔗 [GitHub Repo](https://github.com/navidtnt/COVID19-WebScraper-in-R)
+### COVID-19 Data Web Scraping and Analysis  🔗 [GitHub Repo](https://github.com/NavidTavakoli/COVID19-WebScraper-in-R)
 - Perform web scraping to extract a global COVID-19 dataset from a public Wikipedia page, followed by comprehensive data analysis tasks on the collected data.
 
 
