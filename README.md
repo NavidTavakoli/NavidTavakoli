@@ -1,11 +1,17 @@
-# Hi there, I'm Navid 👋
+# Hi, I'm Navid 👋
 
 ## 👨‍💻 About Me  
 I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATLAB**, and **Geospatial Data Analysis**. Passionate about **Computer Vision**, **Remote Sensing**, and leveraging spatial data for impactful environmental and urban solutions.
 
-- 🔭 Currently working on projects involving **GIS**, **PostgreSQL**, and **GDAL** for advanced spatial data processing  
+- 🔭 Currently freelancing on data engineering projects with a focus on **geospatial data analysis**, **deep learning** for satellite imagery, and **remote sensing** applications 
 - 🌱 Continuously learning and improving in **Deep Learning**, **Data Engineering**, and **Big Data technologies**  
 - 💡 Skilled in data wrangling, visualization, and creating automated pipelines for large-scale geospatial datasets  
+
+---
+
+## 📊 GitHub Stats
+
+![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidtnt&show_icons=true&theme=radical)
 
 ---
 
@@ -42,12 +48,6 @@ Collected and analyzed COVID-19 data from Wikipedia using R for epidemiological 
 
 ## 📫 How to reach me
 
-- Email: [navidtnt@example.com](mailto:navidtnt@example.com)  
-- LinkedIn: [linkedin.com/in/navidtnt](https://www.linkedin.com/in/navidtnt)  
-- Twitter: [@navidtnt](https://twitter.com/navidtnt)  
+- Email: [navidtnt@example.com](mailto:navid.tavakoli.sh@gmail.com)  
+- LinkedIn: [linkedin.com/in/navidtnt]([https://www.linkedin.com/in/navidtnt](https://www.linkedin.com/in/navid-tavakoli-shalmani/))  
 
----
-
-## 📊 GitHub Stats
-
-![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidtnt&show_icons=true&theme=radical)
