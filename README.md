@@ -1,7 +1,7 @@
-# Hi, I'm Navid [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navid.tavakoli.sh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-tavakoli-shalmani/) 
+# Hi, I'm Navid [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navid.tavakoli.sh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-tavakoli-shalmani/) <img src="goal-circle.gif" width="220">
 
 ## 👨‍💻 About Me  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidtnt&theme=radical"><img src="goal-circle.gif" width="220">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidtnt&theme=radical">
 
 I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATLAB**, and **Geospatial Data Analysis**. Passionate about **Computer Vision**, **Remote Sensing**, and leveraging spatial data for impactful environmental and urban solutions.
 
