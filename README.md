@@ -1,17 +1,28 @@
-# Hi, I'm Navid [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navid.tavakoli.sh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-tavakoli-shalmani/)
+# Hi, I'm Navid [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navid.tavakoli.sh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-tavakoli-shalmani/) 
 
 ## 👨‍💻 About Me  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidtnt&theme=radical">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="data-code.gif" width="220">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navidtnt&theme=radical">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="goal-circle.gif" width="220">
 
 I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATLAB**, and **Geospatial Data Analysis**. Passionate about **Computer Vision**, **Remote Sensing**, and leveraging spatial data for impactful environmental and urban solutions.
 
 <img src="https://github-profile-trophy.vercel.app/?username=navidtnt&theme=radical&no-frame=true&no-bg=true&margin-w=15">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navidtnt&theme=radical"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="data-code.gif" width="220">
+<table>
+  <tr>
+    <td>
 
 - 🔭 Currently freelancing on data engineering projects with a focus on **geospatial data analysis**, **deep learning** for satellite imagery, and **remote sensing** applications  
 - 🌱 Continuously learning and improving in **Deep Learning**, **Data Engineering**, and **Big Data technologies**  
 - 💡 Skilled in data wrangling, visualization, and creating automated pipelines for large-scale geospatial datasets  
+
+    </td>
+    <td>
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navidtnt&theme=radical" alt="GitHub most commit language" style="max-width: 320px; height: auto;">
+    </td>
+  </tr>
+</table>
+
+
 
 
 ---
