@@ -4,7 +4,7 @@
 
 I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATLAB**, and **Geospatial Data Analysis**. Passionate about **Computer Vision**, **Remote Sensing**, and leveraging spatial data for impactful environmental and urban solutions.
 
-<img src="https://github-readme-stats.vercel.app/api?username=navidtnt&show_icons=true&theme=radical"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="data-code.gif" width="320">
+<img src="https://github-readme-stats.vercel.app/api?username=navidtnt&show_icons=true&theme=radical"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="data-code.gif" width="320">
 
 - 🔭 Currently freelancing on data engineering projects with a focus on **geospatial data analysis**, **deep learning** for satellite imagery, and **remote sensing** applications  
 - 🌱 Continuously learning and improving in **Deep Learning**, **Data Engineering**, and **Big Data technologies**  
