@@ -1,17 +1,15 @@
 # Hi, I'm Navid 👋
 
 ## 👨‍💻 About Me  
+
 I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATLAB**, and **Geospatial Data Analysis**. Passionate about **Computer Vision**, **Remote Sensing**, and leveraging spatial data for impactful environmental and urban solutions.
 
-- 🔭 Currently freelancing on data engineering projects with a focus on **geospatial data analysis**, **deep learning** for satellite imagery, and **remote sensing** applications 
+<img src="https://github-readme-stats.vercel.app/api?username=navidtnt&show_icons=true&theme=radical"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="data-code.gif" width="320">
+
+- 🔭 Currently freelancing on data engineering projects with a focus on **geospatial data analysis**, **deep learning** for satellite imagery, and **remote sensing** applications  
 - 🌱 Continuously learning and improving in **Deep Learning**, **Data Engineering**, and **Big Data technologies**  
 - 💡 Skilled in data wrangling, visualization, and creating automated pipelines for large-scale geospatial datasets  
 
----
-
-## 📊 GitHub Stats
-
-![Navid's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidtnt&show_icons=true&theme=radical)
 
 ---
 
@@ -22,8 +20,7 @@ I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATL
 - **Geospatial Tools:** GIS (QGIS), GDAL, Remote Sensing  
 - **Computer Vision & Machine Learning:** OpenCV, TensorFlow, PyTorch, scikit-learn  
 - **Data Analysis & Visualization:** pandas, numpy, matplotlib, seaborn  
-- **Other Tools:** Git, Docker, Jupyter Notebook  
-
+- **Other Tools:** Git, SGems, Postgre, Postgis
 ---
 
 ## 🔭 Selected Projects
