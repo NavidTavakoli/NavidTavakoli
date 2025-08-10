@@ -26,7 +26,7 @@ I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATL
 
   <!-- Geospatial Tools -->
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDAL-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> <!-- GDAL icon not available, used python color -->
+  <img src="https://img.shields.io/badge/GDAL-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> <!-- GDAL icon not available -->
 
   <!-- Computer Vision & ML -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -37,6 +37,7 @@ I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATL
   <!-- Data Analysis & Visualization -->
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge"/>
 
@@ -44,35 +45,37 @@ I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATL
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SGems-FFD700?style=for-the-badge"/> <!-- No official logo -->
   <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
+- Programming: Python, MATLAB, SQL  
+- Data Engineering: ETL pipelines, Data wrangling, PostgreSQL  
+- Geospatial Tools: GIS (QGIS), GDAL, Remote Sensing  
+- Computer Vision & Machine Learning: OpenCV, TensorFlow, PyTorch, scikit-learn  
+- Data Analysis & Visualization: pandas, numpy, Tableau, matplotlib, seaborn  
+- Other Tools: Git, SGems, Postgre, PostGIS
 
-Programming: Python, MATLAB, SQL  
-Data Engineering: ETL pipelines, Data wrangling, PostgreSQL  
-Geospatial Tools: GIS (QGIS), GDAL, Remote Sensing  
-Computer Vision & Machine Learning: OpenCV, TensorFlow, PyTorch, scikit-learn  
-Data Analysis & Visualization: pandas, numpy,Tableau, matplotlib, seaborn  
-Other Tools: Git, SGems, Postgre, PostGIS
 ---
 
 ## 🔭 Selected Projects
 
-### Advanced Deep Learning for Building Footprint Extraction  
-Applied deep learning models like DeepLabV3 with ResNet50 backbone to extract building footprints from satellite imagery for urban planning.  
-🔗 [GitHub Repo](https://github.com/navidtnt/Advanced-Deep-Learning-for-Building-Footprint)
+### Computer Vision Deep Learning DeepLabV3 ResNet Backbone for Image Segmentation 🔗 [GitHub Repo](https://github.com/navidtnt/Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation)
+- Applied deep learning models like DeepLabV3 with ResNet50 backbone to extract building footprints from satellite imagery for urban planning.  
 
-### European Ozone Density Analysis  
-Spatial analysis and modeling of ozone density across five European countries using R and geostatistical methods.  
-🔗 [GitHub Repo](https://github.com/navidtnt/European-O3-Density-Analysis-Variogram-Modeling-and-Kriging-Mapping)
+### Geospatial Data Preparation for Deep Learning 🔗 [GitHub Repo](https://github.com/navidtnt/Geospatial-Data-Preparation-for-Deep-Learning)
+- A collection of Python scripts for preprocessing and postprocessing geospatial imagery, designed to prepare satellite and aerial data for deep learning models. Includes tools for raster clipping, merging, tiling, CRS adjustment, format conversion, and vectorization of model outputs — bridging Remote Sensing and Computer Vision workflows.
 
-### Movie Library Desktop Application  
-Python desktop app for managing and exploring movie collections with an interactive UI.  
-🔗 [GitHub Repo](https://github.com/navidtnt/movie-Library)
 
-### COVID-19 Data Web Scraping and Analysis  
-Collected and analyzed COVID-19 data from Wikipedia using R for epidemiological insights.  
-🔗 [GitHub Repo](https://github.com/navidtnt/Webscraping-By-R)
+### Geostatistical Modeling and-Environmental Data Analysis  🔗 [GitHub Repo](https://github.com/navidtnt/Geostatistical-Modeling-and-Environmental-Data-Analysis)
+- Conducted thorough O3 density study in 5 European countries using EEA data. Analyzed with R Studio: distance calculations, variogram modeling (linear, spherical, Gaussian, exponential), model comparison via cross-validation. Optimal model chosen. Produced kriging maps in SGems. 
+
+
+### Movie Library Desktop Application  🔗 [GitHub Repo](https://github.com/navidtnt/Movie-Library-Desktop-Application)
+- Movie Library is a simple desktop app to organize and track your movies. Easily add, edit, and categorize films you’ve watched or want to watch. Built with Python and includes an easy Windows installer for quick setup.
+
+
+### COVID-19 Data Web Scraping and Analysis  🔗 [GitHub Repo](https://github.com/navidtnt/COVID19-WebScraper-in-R)
+- Perform web scraping to extract a global COVID-19 dataset from a public Wikipedia page, followed by comprehensive data analysis tasks on the collected data.
+
 
 ---
 
