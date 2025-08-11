@@ -9,7 +9,6 @@ navid.tavakoli.sh@gmail.com
 
 ### Welcome to my GitHub! I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATLAB**, and **Geospatial Data Analysis**. Passionate about **Computer Vision**, **Remote Sensing**, and leveraging spatial data for impactful environmental and urban solutions.
 
-<img src="https://github-profile-trophy.vercel.app/?username=NavidTavakoli&theme=radical&no-frame=true&no-bg=true&margin-w=15">
 
 <table>
   <tr>
