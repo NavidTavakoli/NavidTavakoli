@@ -21,7 +21,7 @@ navid.tavakoli.sh@gmail.com
 
     </td>
     <td>
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navidtnt&theme=radical" alt="GitHub most commit language" style="max-width: 320px; height: auto;">
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavidTavakoli&theme=radical" alt="GitHub most commit language" style="max-width: 320px; height: auto;">
     </td>
   </tr>
 </table>
