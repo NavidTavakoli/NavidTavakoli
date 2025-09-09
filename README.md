@@ -75,6 +75,9 @@ navid.tavakoli.sh@gmail.com
 
 ## 🔭 Selected Projects
 
+### GDPR-Aware Reddit Data ETL Workflow Implemented with Apache Airflow and PostgreSQL 🔗 [GitHub Repo](https://github.com/NavidTavakoli/reddit-apache-airflow-postgres-pipeline)
+-his project implements an automated data pipeline using Apache Airflow to extract data from Reddit, store it as CSV files, transform and combine the data, and finally load it into PostgreSQL. The workflow is designed with GDPR-awareness, ensuring proper handling and archiving of raw and processed data.
+
 ### Computer Vision Deep Learning DeepLabV3 ResNet Backbone for Image Segmentation 🔗 [GitHub Repo](https://github.com/NavidTavakoli/Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation)
 - Applied deep learning models like DeepLabV3 with ResNet50 backbone to extract building footprints from satellite imagery for urban planning.  
 
