@@ -77,11 +77,13 @@ navid.tavakoli.sh@gmail.com
   <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-- Programming: Python, MATLAB, SQL  
-- Data Engineering: ETL pipelines, Data wrangling, PostgreSQL  
+- Programming: Python, R, MATLAB, SQL  
+- Data Engineering & Cloud: ETL pipelines, Apache Airflow, Docker, AWS, PostgreSQL, MariaDB, PostGIS
+- Big Data & Streaming: Apache Spark, Apache Flink, Apache Kafka, ClickHouse, Elasticsearch
 - Geospatial Tools: GIS (QGIS), GDAL, Remote Sensing  
 - Computer Vision & Machine Learning: OpenCV, TensorFlow, PyTorch, scikit-learn  
-- Data Analysis & Visualization: pandas, numpy, Tableau, matplotlib, seaborn  
+- Data Analysis & Visualization: pandas, numpy, Tableau, matplotlib, seaborn
+- Version Control & CI/CD: Git, GitHub Actions
 - Other Tools: Git, SGems, Postgre, PostGIS
 
 ---
