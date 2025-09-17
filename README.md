@@ -91,6 +91,9 @@ navid.tavakoli.sh@gmail.com
 
 ## 🔭 Selected Projects
 
+### TOP – Turin Open Platform 🔗 [GitHub Repo](https://github.com/NavidTavakoli/TOP-turin-open-data-platform)
+-A near real-time open data platform for Turin, integrating weather, air quality, traffic, and social sentiment into actionable KPIs for smarter urban planning and decision-making.
+
 ### GDPR-Aware Reddit Data ETL Workflow Implemented with Apache Airflow and PostgreSQL 🔗 [GitHub Repo](https://github.com/NavidTavakoli/reddit-apache-airflow-postgres-pipeline)
 -This project implements an automated data pipeline using Apache Airflow to extract data from Reddit, store it as CSV files, transform and combine the data, and finally load it into PostgreSQL. The workflow is designed with GDPR-awareness, ensuring proper handling and archiving of raw and processed data.
 
