@@ -91,6 +91,9 @@ navid.tavakoli.sh@gmail.com
 
 ## 🔭 Selected Projects
 
+### TravelPulse: Real-Time Tourism Analytics Platform 🔗 [GitHub Repo](https://github.com/NavidTavakoli/TravelPulse-spark-stream-tourism-analytics)
+-TravelPulse is a real-time data analytics platform built with Kafka, Spark Structured Streaming, Prometheus, and Grafana, designed to simulate and monitor tourism activity across Italy. It collects live data from flights, hotel bookings, and weather sources, processes them in Spark to compute KPIs such as flight delays, booking trends, and tourism season scores, and visualizes everything through Grafana dashboards. By turning streaming data into actionable insights, TravelPulse helps city planners, airlines, and hotels make faster, data-driven decisions in the tourism ecosystem.
+
 ### TOP – Turin Open Platform 🔗 [GitHub Repo](https://github.com/NavidTavakoli/TOP-turin-open-data-platform)
 -A near real-time open data platform for Turin, integrating weather, air quality, traffic, and social sentiment into actionable KPIs for smarter urban planning and decision-making.
 
