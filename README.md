@@ -1,5 +1,5 @@
 # Hi, I'm Navid 
-##### Environmental Data Specialist | Data Engineer & Analyst
+#####   Data Engineer | Environmental Data Specialist
 navid.tavakoli.sh@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-tavakoli-shalmani/)
