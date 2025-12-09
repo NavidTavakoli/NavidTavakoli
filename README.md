@@ -91,6 +91,9 @@ navid.tavakoli.sh@gmail.com
 
 ## 🔭 Selected Projects
 
+### Real Time Fraud Detection Pipeline 🔗 [GitHub Repo](https://github.com/NavidTavakoli/Real-Time-Fraud-Detection-Pipeline)
+-Real-Time Fraud Detection & Analytics Pipeline Designed and implemented a scalable, containerized data pipeline to process high-velocity retail transactions. The system utilizes Change Data Capture (CDC) via Debezium to stream row-level changes from sharded PostgreSQL and MySQL databases into Apache Kafka. A Spark Structured Streaming job consumes these streams, performing real-time ETL and stateful aggregations to detect sales anomalies, writing the final metrics to Redis for low-latency access and visualization.
+
 ### TravelPulse: Real-Time Tourism Analytics Platform 🔗 [GitHub Repo](https://github.com/NavidTavakoli/TravelPulse-spark-stream-tourism-analytics)
 -TravelPulse is a real-time data analytics platform built with Kafka, Spark Structured Streaming, Prometheus, and Grafana, designed to simulate and monitor tourism activity across Italy. It collects live data from flights, hotel bookings, and weather sources, processes them in Spark to compute KPIs such as flight delays, booking trends, and tourism season scores, and visualizes everything through Grafana dashboards. By turning streaming data into actionable insights, TravelPulse helps city planners, airlines, and hotels make faster, data-driven decisions in the tourism ecosystem.
 
