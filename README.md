@@ -1,124 +1,152 @@
-# Hi, I'm Navid 
-###   Data Engineer 
-navid.tavakoli.sh@gmail.com
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Navid%20Tavakoli%20Shalmani&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Geospatial%20AI%20%7C%20Turin%2C%20Italy&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=650&lines=Building+ETL+%26+streaming+pipelines;Applying+deep+learning+to+satellite+imagery;Bridging+civil%2C+environmental+%26+data+engineering" alt="Typing SVG" />
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-tavakoli-shalmani/)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://navidtavakolishalmani.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavidTavakoli&theme=radical"> 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://navidtavakolishalmani.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navid.tavakoli.sh@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=NavidTavakoli&style=for-the-badge&color=F75C7E&label=PROFILE+VIEWS)
 
-## 👨‍💻 About Me  
+</div>
 
-### Welcome to my GitHub! I'm a Data Engineer and Data Analyst with strong expertise in **Python**, **MATLAB**, and **Geospatial Data Analysis**. Passionate about **Computer Vision**, **Remote Sensing**, and leveraging spatial data for impactful environmental and urban solutions.
+---
 
+### 👋 About me
+
+Environmental Engineer turned Data Engineer, based in Turin, Italy. I bridge three worlds — **civil & environmental engineering**, **geospatial AI / remote sensing**, and **modern data engineering** — building reproducible pipelines and applying deep learning to satellite imagery for urban and environmental problems.
+
+- 🔭 Freelance **Data Engineer** (2024–present): ETL/streaming pipelines with Airflow, Kafka and Spark Structured Streaming, plus LLM API / RAG microservice integration
+- 🎓 M.Sc. Environmental Engineering, University of Bologna — thesis applied DeepLabV3+/ResNet to WorldView satellite imagery for building-footprint extraction across Turin & Bologna, 93%+ accuracy
+- 🏗️ Started in Civil Engineering: site supervision, IoT-based environmental monitoring, sustainability reporting
+- 🌱 Currently deepening Spark Structured Streaming, Kafka, and geospatial deep learning
+
+---
+
+### 🛠️ Tech stack
+
+**Languages & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Data Engineering & Orchestration**
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+**Streaming & Big Data**
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Geospatial & GIS**
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-4B8BBE?style=flat-square)
+![SGeMS](https://img.shields.io/badge/SGeMS-FFD700?style=flat-square)
+
+**Computer Vision & ML**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Analysis & Visualization**
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+### 🚀 Featured projects — Data Engineering & Streaming
 
 <table>
-  <tr>
-    <td>
-
-- 🔭 Currently freelancing on data engineering projects with a focus on **geospatial data analysis**, **deep learning** for satellite imagery, and **remote sensing** applications  
-- 🌱 Continuously learning and improving in **Deep Learning**, **Data Engineering**, and **Big Data technologies**  
-- 💡 Skilled in data wrangling, visualization, and creating automated pipelines for large-scale geospatial datasets  
-
-    </td>
-    <td>
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavidTavakoli&theme=radical" alt="GitHub most commit language" style="max-width: 320px; height: auto;">
-    </td>
-  </tr>
+<tr>
+<td width="50%"><a href="https://github.com/NavidTavakoli/Real-Time-Fraud-Detection-Pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=Real-Time-Fraud-Detection-Pipeline&theme=radical&hide_border=true" /></a></td>
+<td width="50%"><a href="https://github.com/NavidTavakoli/TravelPulse-spark-stream-tourism-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=TravelPulse-spark-stream-tourism-analytics&theme=radical&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/NavidTavakoli/TOP-turin-open-data-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=TOP-turin-open-data-platform&theme=radical&hide_border=true" /></a></td>
+<td width="50%"><a href="https://github.com/NavidTavakoli/reddit-apache-airflow-postgres-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=reddit-apache-airflow-postgres-pipeline&theme=radical&hide_border=true" /></a></td>
+</tr>
 </table>
 
+- **Fraud Detection Pipeline** — CDC via Debezium streams sharded PostgreSQL/MySQL transactions into Kafka; Spark Structured Streaming detects anomalies in real time, serving metrics through Redis.
+- **TravelPulse** — Kafka + Spark Structured Streaming platform simulating flights, hotel bookings, and weather for Italy, with Prometheus/Grafana dashboards for tourism KPIs.
+- **TOP (Turin Open Platform)** — Near real-time Turin city dashboard integrating weather, air quality, traffic, and citizen sentiment via GitHub Actions ETL into Supabase/PostgreSQL.
+- **GDPR-Aware Reddit ETL** — Airflow DAGs extract, de-duplicate, hash sensitive fields, and UPSERT Reddit data into PostgreSQL with privacy-by-design handling.
 
+### 🛰️ Featured projects — Geospatial AI & Environmental Research
 
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/NavidTavakoli/Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation&theme=radical&hide_border=true" /></a></td>
+<td width="50%"><a href="https://github.com/NavidTavakoli/Geostatistical-Modeling-and-Environmental-Data-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=Geostatistical-Modeling-and-Environmental-Data-Analysis&theme=radical&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/NavidTavakoli/Geospatial-Data-Preparation-for-Deep-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=Geospatial-Data-Preparation-for-Deep-Learning&theme=radical&hide_border=true" /></a></td>
+<td width="50%" align="center">
 
----
+🔍 <b><a href="https://github.com/NavidTavakoli?tab=repositories">Explore all repositories →</a></b>
 
-## 🛠️ Skills
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+- **Building Footprint Extraction** — DeepLabV3 + ResNet50 on WorldView satellite imagery for Turin & Bologna; used for solar-potential and rainwater-harvesting assessments.
+- **Geostatistical Ozone Modeling** — Variogram modeling and kriging on O₃ data from 738 EEA monitoring stations across 5 European countries (R + SGeMS).
+- **Geospatial Data Prep Toolkit** — Python/GDAL/Rasterio pipeline for clipping, tiling, reprojecting, and vectorizing satellite imagery for deep learning workflows.
 
-  <!-- Data Engineering -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<details>
+<summary>📦 More projects</summary>
+<br/>
 
-  <!-- Big Data & Streaming -->
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+- <a href="https://github.com/NavidTavakoli/COVID19-WebScraper-in-R">COVID-19 Web Scraper (R)</a> — Wikipedia scraping, cleaning, and ggplot2 visualization of global COVID-19 data.
+- <a href="https://github.com/NavidTavakoli/Movie-Library-Desktop-Application">Movie Library Desktop App</a> — Python desktop app for tracking watched/watchlist films with metadata lookup and MSI installer.
 
-
-  <!-- Geospatial Tools -->
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDAL-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> <!-- GDAL icon not available -->
-
-  <!-- Computer Vision & ML -->
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-  <!-- Data Analysis & Visualization -->
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge"/>
-
-  <!-- Other Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SGems-FFD700?style=for-the-badge"/> <!-- No official logo -->
-  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-- Programming: Python, R, MATLAB, SQL  
-- Data Engineering & Cloud: ETL pipelines, Apache Airflow, Docker, AWS, PostgreSQL, MariaDB, PostGIS
-- Big Data & Streaming: Apache Spark, Apache Flink, Apache Kafka, ClickHouse, Elasticsearch
-- Geospatial Tools: GIS (QGIS), GDAL, Remote Sensing  
-- Computer Vision & Machine Learning: OpenCV, TensorFlow, PyTorch, scikit-learn  
-- Data Analysis & Visualization: pandas, numpy, Tableau, matplotlib, seaborn
-- Version Control & CI/CD: Git, GitHub Actions
-- Other Tools: Git, SGems, Postgre, PostGIS
+</details>
 
 ---
 
-## 🔭 Selected Projects
+### 📊 GitHub stats
 
-### Real Time Fraud Detection Pipeline 🔗 [GitHub Repo](https://github.com/NavidTavakoli/Real-Time-Fraud-Detection-Pipeline)
--Real-Time Fraud Detection & Analytics Pipeline Designed and implemented a scalable, containerized data pipeline to process high-velocity retail transactions. The system utilizes Change Data Capture (CDC) via Debezium to stream row-level changes from sharded PostgreSQL and MySQL databases into Apache Kafka. A Spark Structured Streaming job consumes these streams, performing real-time ETL and stateful aggregations to detect sales anomalies, writing the final metrics to Redis for low-latency access and visualization.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NavidTavakoli&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidTavakoli&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</div>
 
-### TravelPulse: Real-Time Tourism Analytics Platform 🔗 [GitHub Repo](https://github.com/NavidTavakoli/TravelPulse-spark-stream-tourism-analytics)
--TravelPulse is a real-time data analytics platform built with Kafka, Spark Structured Streaming, Prometheus, and Grafana, designed to simulate and monitor tourism activity across Italy. It collects live data from flights, hotel bookings, and weather sources, processes them in Spark to compute KPIs such as flight delays, booking trends, and tourism season scores, and visualizes everything through Grafana dashboards. By turning streaming data into actionable insights, TravelPulse helps city planners, airlines, and hotels make faster, data-driven decisions in the tourism ecosystem.
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=NavidTavakoli&theme=radical&hide_border=true" width="70%"/>
+</div>
 
-### TOP – Turin Open Platform 🔗 [GitHub Repo](https://github.com/NavidTavakoli/TOP-turin-open-data-platform)
--A near real-time open data platform for Turin, integrating weather, air quality, traffic, and social sentiment into actionable KPIs for smarter urban planning and decision-making.
-
-### GDPR-Aware Reddit Data ETL Workflow Implemented with Apache Airflow and PostgreSQL 🔗 [GitHub Repo](https://github.com/NavidTavakoli/reddit-apache-airflow-postgres-pipeline)
--This project implements an automated data pipeline using Apache Airflow to extract data from Reddit, store it as CSV files, transform and combine the data, and finally load it into PostgreSQL. The workflow is designed with GDPR-awareness, ensuring proper handling and archiving of raw and processed data.
-
-### Computer Vision Deep Learning DeepLabV3 ResNet Backbone for Image Segmentation 🔗 [GitHub Repo](https://github.com/NavidTavakoli/Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation)
-- Applied deep learning models like DeepLabV3 with ResNet50 backbone to extract building footprints from satellite imagery for urban planning.  
-
-### Geospatial Data Preparation for Deep Learning 🔗 [GitHub Repo](https://github.com/NavidTavakoli/Geospatial-Data-Preparation-for-Deep-Learning)
-- A collection of Python scripts for preprocessing and postprocessing geospatial imagery, designed to prepare satellite and aerial data for deep learning models. Includes tools for raster clipping, merging, tiling, CRS adjustment, format conversion, and vectorization of model outputs — bridging Remote Sensing and Computer Vision workflows.
-
-
-### Geostatistical Modeling and-Environmental Data Analysis  🔗 [GitHub Repo](https://github.com/NavidTavakoli/Geostatistical-Modeling-and-Environmental-Data-Analysis)
-- Conducted thorough O3 density study in 5 European countries using EEA data. Analyzed with R Studio: distance calculations, variogram modeling (linear, spherical, Gaussian, exponential), model comparison via cross-validation. Optimal model chosen. Produced kriging maps in SGems. 
-
-
-### Movie Library Desktop Application  🔗 [GitHub Repo](https://github.com/NavidTavakoli/Movie-Library-Desktop-Application)
-- Movie Library is a simple desktop app to organize and track your movies. Easily add, edit, and categorize films you’ve watched or want to watch. Built with Python and includes an easy Windows installer for quick setup.
-
-
-### COVID-19 Data Web Scraping and Analysis  🔗 [GitHub Repo](https://github.com/NavidTavakoli/COVID19-WebScraper-in-R)
-- Perform web scraping to extract a global COVID-19 dataset from a public Wikipedia page, followed by comprehensive data analysis tasks on the collected data.
-
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NavidTavakoli&theme=radical&no-frame=true&row=1&column=7"/>
+</div>
 
 ---
 
+<div align="center">
+
+**Let's connect** — open to conversations on data engineering, geospatial AI, and smart cities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-tavakoli-shalmani/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://navidtavakolishalmani.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navid.tavakoli.sh@gmail.com)
+
+<sub>Turin, Italy 🇮🇹</sub>
+
+</div>
