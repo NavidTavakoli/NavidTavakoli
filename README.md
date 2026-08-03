@@ -157,28 +157,12 @@ Environmental Engineer turned Data Engineer, based in Turin, Italy. I bridge thr
 
 ### 📊 GitHub stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NavidTavakoli&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidTavakoli&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=NavidTavakoli&theme=radical&hide_border=true" width="70%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NavidTavakoli&theme=radical&no-frame=true&row=1&column=7"/>
-</div>
-
----
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NavidTavakoli&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidTavakoli&layout=compact&theme=radical&hide_border=true" width="48%"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com/?user=NavidTavakoli&theme=radical&hide_border=true" width="70%"/> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NavidTavakoli&theme=radical&no-frame=true&row=1&column=7"/> </div>
 <div align="center">
 
-**Let's connect** — open to conversations on data engineering, geospatial AI, and smart cities.
+Let's connect — open to conversations on data engineering, geospatial AI, and smart cities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-tavakoli-shalmani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://navidtavakolishalmani.com)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navid.tavakoli.sh@gmail.com)
+Show Image Show Image Show Image
 
 <sub>Turin, Italy 🇮🇹</sub>
 
