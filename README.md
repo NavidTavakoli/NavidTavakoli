@@ -74,42 +74,75 @@ Environmental Engineer turned Data Engineer, based in Turin, Italy. I bridge thr
 
 ### 🚀 Featured projects — Data Engineering & Streaming
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%"><a href="https://github.com/NavidTavakoli/Real-Time-Fraud-Detection-Pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=Real-Time-Fraud-Detection-Pipeline&theme=radical&hide_border=true" /></a></td>
-<td width="50%"><a href="https://github.com/NavidTavakoli/TravelPulse-spark-stream-tourism-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=TravelPulse-spark-stream-tourism-analytics&theme=radical&hide_border=true" /></a></td>
+<td width="50%" valign="top">
+
+**🔗 [Real-Time Fraud Detection Pipeline](https://github.com/NavidTavakoli/Real-Time-Fraud-Detection-Pipeline)**
+<br/>CDC via Debezium streams sharded PostgreSQL/MySQL transactions into Kafka; Spark Structured Streaming detects anomalies in real time, serving metrics through Redis.
+<br/><sub>`PostgreSQL` `MySQL` `Debezium` `Kafka` `Spark` `Redis`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 [TravelPulse](https://github.com/NavidTavakoli/TravelPulse-spark-stream-tourism-analytics)**
+<br/>Kafka + Spark Structured Streaming platform simulating flights, hotel bookings, and weather for Italy, with Prometheus/Grafana dashboards for tourism KPIs.
+<br/><sub>`Kafka` `Spark` `Prometheus` `Grafana`</sub>
+
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/NavidTavakoli/TOP-turin-open-data-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=TOP-turin-open-data-platform&theme=radical&hide_border=true" /></a></td>
-<td width="50%"><a href="https://github.com/NavidTavakoli/reddit-apache-airflow-postgres-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=reddit-apache-airflow-postgres-pipeline&theme=radical&hide_border=true" /></a></td>
+<td width="50%" valign="top">
+
+**🔗 [TOP — Turin Open Platform](https://github.com/NavidTavakoli/TOP-turin-open-data-platform)**
+<br/>Near real-time Turin city dashboard integrating weather, air quality, traffic, and citizen sentiment via GitHub Actions ETL into Supabase/PostgreSQL.
+<br/><sub>`GitHub Actions` `Supabase` `PostgreSQL` `ECharts`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 [GDPR-Aware Reddit ETL](https://github.com/NavidTavakoli/reddit-apache-airflow-postgres-pipeline)**
+<br/>Airflow DAGs extract, de-duplicate, hash sensitive fields, and UPSERT Reddit data into PostgreSQL with privacy-by-design handling.
+<br/><sub>`Airflow` `Python` `PostgreSQL`</sub>
+
+</td>
 </tr>
 </table>
 
-- **Fraud Detection Pipeline** — CDC via Debezium streams sharded PostgreSQL/MySQL transactions into Kafka; Spark Structured Streaming detects anomalies in real time, serving metrics through Redis.
-- **TravelPulse** — Kafka + Spark Structured Streaming platform simulating flights, hotel bookings, and weather for Italy, with Prometheus/Grafana dashboards for tourism KPIs.
-- **TOP (Turin Open Platform)** — Near real-time Turin city dashboard integrating weather, air quality, traffic, and citizen sentiment via GitHub Actions ETL into Supabase/PostgreSQL.
-- **GDPR-Aware Reddit ETL** — Airflow DAGs extract, de-duplicate, hash sensitive fields, and UPSERT Reddit data into PostgreSQL with privacy-by-design handling.
-
 ### 🛰️ Featured projects — Geospatial AI & Environmental Research
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%"><a href="https://github.com/NavidTavakoli/Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation&theme=radical&hide_border=true" /></a></td>
-<td width="50%"><a href="https://github.com/NavidTavakoli/Geostatistical-Modeling-and-Environmental-Data-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=Geostatistical-Modeling-and-Environmental-Data-Analysis&theme=radical&hide_border=true" /></a></td>
+<td width="50%" valign="top">
+
+**🛰️ [Building Footprint Extraction (DeepLabV3 + ResNet)](https://github.com/NavidTavakoli/Computer-Vision-Deep-Learning-DeepLabV3-ResNet-Backbone-for-Image-Segmentation)**
+<br/>DeepLabV3 + ResNet50 on WorldView satellite imagery for Turin & Bologna; used for solar-potential and rainwater-harvesting assessments.
+<br/><sub>`PyTorch` `DeepLabV3` `QGIS` `Remote Sensing`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🛰️ [Geostatistical Ozone Modeling](https://github.com/NavidTavakoli/Geostatistical-Modeling-and-Environmental-Data-Analysis)**
+<br/>Variogram modeling and kriging on O₃ data from 738 EEA monitoring stations across 5 European countries.
+<br/><sub>`R` `SGeMS` `Geostatistics`</sub>
+
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/NavidTavakoli/Geospatial-Data-Preparation-for-Deep-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NavidTavakoli&repo=Geospatial-Data-Preparation-for-Deep-Learning&theme=radical&hide_border=true" /></a></td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
+
+**🛰️ [Geospatial Data Prep Toolkit](https://github.com/NavidTavakoli/Geospatial-Data-Preparation-for-Deep-Learning)**
+<br/>Python/GDAL/Rasterio pipeline for clipping, tiling, reprojecting, and vectorizing satellite imagery for deep learning workflows.
+<br/><sub>`Python` `GDAL` `Rasterio` `GeoPandas`</sub>
+
+</td>
+<td width="50%" align="center" valign="middle">
 
 🔍 <b><a href="https://github.com/NavidTavakoli?tab=repositories">Explore all repositories →</a></b>
 
 </td>
 </tr>
 </table>
-
-- **Building Footprint Extraction** — DeepLabV3 + ResNet50 on WorldView satellite imagery for Turin & Bologna; used for solar-potential and rainwater-harvesting assessments.
-- **Geostatistical Ozone Modeling** — Variogram modeling and kriging on O₃ data from 738 EEA monitoring stations across 5 European countries (R + SGeMS).
-- **Geospatial Data Prep Toolkit** — Python/GDAL/Rasterio pipeline for clipping, tiling, reprojecting, and vectorizing satellite imagery for deep learning workflows.
 
 <details>
 <summary>📦 More projects</summary>
